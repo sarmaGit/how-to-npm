@@ -1,0 +1,20 @@
+{
+  "name": "sarma",
+  "version": "1.0.0",
+  "description": "how to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "how",
+    "to",
+    "npm",
+    "test"
+  ],
+  "author": "sarma",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
